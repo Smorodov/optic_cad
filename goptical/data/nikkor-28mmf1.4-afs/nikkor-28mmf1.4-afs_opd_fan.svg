@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="640px" height="480px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0" y="0" width="640" height="480"  fill="#ffffff" />
+<defs>
+<g id="dot">
+<line x1="1" y1="1" x2="0" y2="0"  />
+</g>
+<g id="cross">
+<line x1="-3" y1="0" x2="3" y2="0"  />
+<line x1="0" y1="-3" x2="0" y2="3"  />
+</g>
+<g id="square">
+<line x1="-3" y1="-3" x2="-3" y2="3"  />
+<line x1="-3" y1="3" x2="3" y2="3"  />
+<line x1="3" y1="3" x2="3" y2="-3"  />
+<line x1="3" y1="-3" x2="-3" y2="-3"  />
+</g>
+<g id="round">
+<ellipse cx="0" cy="0" rx="3" ry="3"  fill="none" /></g>
+<g id="triangle">
+<line x1="0" y1="-3" x2="-3" y2="3"  />
+<line x1="-3" y1="3" x2="3" y2="3"  />
+<line x1="0" y1="-3" x2="3" y2="3"  />
+</g>
+</defs>
+<polygon fill="none" stroke="#000000" points="66.0317,430.476 66.0317,49.5238 573.968,49.5238 573.968,430.476 " />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="320" y="473.619" fill="#000000">Entrance ray height (normalized)</text>
+<line x1="66.0317" y1="415.852" x2="573.968" y2="415.852"  stroke="#000000" />
+<use x="66.0317" y="415.852" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="66.0317" y="448.476" fill="#000000">-1</text>
+<use x="320" y="415.852" xlink:href="#cross"  stroke="#000000" />
+<use x="320" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="320" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="320" y="448.476" fill="#000000">0</text>
+<use x="573.968" y="415.852" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="573.968" y="448.476" fill="#000000">1</text>
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="16.5079" y="246" transform="rotate(-90,16.5079,240)" fill="#000000">Optical path difference (waves)</text>
+<line x1="320" y1="430.476" x2="320" y2="49.5238"  stroke="#000000" />
+<use x="320" y="415.852" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="415.852" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="415.852" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="421.852" fill="#000000">0</text>
+<use x="320" y="366" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="366" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="366" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="372" fill="#000000">2</text>
+<use x="320" y="316.149" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="316.149" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="316.149" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="322.149" fill="#000000">4</text>
+<use x="320" y="266.298" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="266.298" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="266.298" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="272.298" fill="#000000">6</text>
+<use x="320" y="216.446" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="216.446" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="216.446" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="222.446" fill="#000000">8</text>
+<use x="320" y="166.595" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="166.595" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="166.595" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="172.595" fill="#000000">10</text>
+<use x="320" y="116.744" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="116.744" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="116.744" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="122.744" fill="#000000">12</text>
+<use x="320" y="66.8926" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="66.8926" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="66.8926" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="72.8926" fill="#000000">14</text>
+<text style="font-size:18;text-align:center;text-anchor:middle;" x="320" y="33.7619" fill="#000000">Optical path difference fan (tangential)</text>
+<path fill="none"  stroke="#00ebff" d="M235.429,49.5238 S246.705,202.363 252.343,249.615 S263.619,309.229 269.257,333.031 S280.533,379.606 286.171,392.428 S297.448,406.06 303.086,409.964 S314.362,415.852 320,415.852 S331.276,413.868 336.914,409.964 S348.19,405.25 353.829,392.428 S365.105,356.833 370.743,333.031 S382.019,296.866 387.657,249.615 S401.752,82.8723 404.571,49.5238 " />
+<path fill="none"  stroke="#ffe100" d="M235.429,188.764 S246.705,276.954 252.343,307.747 S263.619,355.958 269.257,373.518 S280.533,406.028 286.171,413.106 S297.448,415.527 303.086,415.984 S314.362,415.852 320,415.852 S331.276,416.442 336.914,415.984 S348.19,420.183 353.829,413.106 S365.105,391.078 370.743,373.518 S382.019,338.539 387.657,307.747 S401.752,208.594 404.571,188.764 " />
+<path fill="none"  stroke="#ff0000" d="M235.429,377.138 S246.705,386.585 252.343,393.091 S263.619,409.945 269.257,416.176 S280.533,429.784 286.171,430.476 S297.448,422.765 303.086,420.327 S314.362,415.852 320,415.852 S331.276,417.89 336.914,420.327 S348.19,431.168 353.829,430.476 S365.105,422.407 370.743,416.176 S382.019,399.597 387.657,393.091 S401.752,379.797 404.571,377.138 " />
+</svg>

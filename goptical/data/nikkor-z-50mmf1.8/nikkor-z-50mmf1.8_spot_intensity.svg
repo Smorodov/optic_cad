@@ -1,0 +1,222 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="640px" height="480px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0" y="0" width="640" height="480"  fill="#ffffff" />
+<defs>
+<g id="dot">
+<line x1="1" y1="1" x2="0" y2="0"  />
+</g>
+<g id="cross">
+<line x1="-3" y1="0" x2="3" y2="0"  />
+<line x1="0" y1="-3" x2="0" y2="3"  />
+</g>
+<g id="square">
+<line x1="-3" y1="-3" x2="-3" y2="3"  />
+<line x1="-3" y1="3" x2="3" y2="3"  />
+<line x1="3" y1="3" x2="3" y2="-3"  />
+<line x1="3" y1="-3" x2="-3" y2="-3"  />
+</g>
+<g id="round">
+<ellipse cx="0" cy="0" rx="3" ry="3"  fill="none" /></g>
+<g id="triangle">
+<line x1="0" y1="-3" x2="-3" y2="3"  />
+<line x1="-3" y1="3" x2="3" y2="3"  />
+<line x1="0" y1="-3" x2="3" y2="3"  />
+</g>
+</defs>
+<polygon fill="none" stroke="#000000" points="66.0317,430.476 66.0317,49.5238 573.968,49.5238 573.968,430.476 " />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="320" y="473.619" fill="#000000">Distance from spot centroid (um)</text>
+<use x="66.0317" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="66.0317" y="448.476" fill="#000000">0</text>
+<use x="153.007" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="153.007" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="153.007" y="448.476" fill="#000000">2</text>
+<use x="239.982" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="239.982" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="239.982" y="448.476" fill="#000000">4</text>
+<use x="326.956" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="326.956" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="326.956" y="448.476" fill="#000000">6</text>
+<use x="413.931" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="413.931" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="413.931" y="448.476" fill="#000000">8</text>
+<use x="500.906" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="500.906" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="500.906" y="448.476" fill="#000000">10</text>
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="16.5079" y="246" transform="rotate(-90,16.5079,240)" fill="#000000">Encircled intensity</text>
+<use x="573.968" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="436.476" fill="#000000">0</text>
+<use x="573.968" y="378.076" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="378.076" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="384.076" fill="#000000">100</text>
+<use x="573.968" y="325.675" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="325.675" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="331.675" fill="#000000">200</text>
+<use x="573.968" y="273.274" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="273.274" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="279.274" fill="#000000">300</text>
+<use x="573.968" y="220.874" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="220.874" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="226.874" fill="#000000">400</text>
+<use x="573.968" y="168.473" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="168.473" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="174.473" fill="#000000">500</text>
+<use x="573.968" y="116.073" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="116.073" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="122.073" fill="#000000">600</text>
+<use x="573.968" y="63.672" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="63.672" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="69.672" fill="#000000">700</text>
+<text style="font-size:18;text-align:center;text-anchor:middle;" x="320" y="33.7619" fill="#000000">Spot diagram encircled rays intensity</text>
+<line x1="66.0317" y1="430.476" x2="76.1905" y2="341.919"  stroke="#00ebff" />
+<line x1="76.1905" y1="341.919" x2="86.3492" y2="279.038"  stroke="#00ebff" />
+<line x1="86.3492" y1="279.038" x2="96.5079" y2="250.742"  stroke="#00ebff" />
+<line x1="96.5079" y1="250.742" x2="106.667" y2="143.845"  stroke="#00ebff" />
+<line x1="106.667" y1="143.845" x2="116.825" y2="143.845"  stroke="#00ebff" />
+<line x1="116.825" y1="143.845" x2="126.984" y2="143.845"  stroke="#00ebff" />
+<line x1="126.984" y1="143.845" x2="137.143" y2="143.845"  stroke="#00ebff" />
+<line x1="137.143" y1="143.845" x2="147.302" y2="143.845"  stroke="#00ebff" />
+<line x1="147.302" y1="143.845" x2="157.46" y2="143.845"  stroke="#00ebff" />
+<line x1="157.46" y1="143.845" x2="167.619" y2="143.845"  stroke="#00ebff" />
+<line x1="167.619" y1="143.845" x2="177.778" y2="143.845"  stroke="#00ebff" />
+<line x1="177.778" y1="143.845" x2="187.937" y2="143.845"  stroke="#00ebff" />
+<line x1="187.937" y1="143.845" x2="198.095" y2="143.845"  stroke="#00ebff" />
+<line x1="198.095" y1="143.845" x2="208.254" y2="143.845"  stroke="#00ebff" />
+<line x1="208.254" y1="143.845" x2="218.413" y2="99.8284"  stroke="#00ebff" />
+<line x1="218.413" y1="99.8284" x2="228.571" y2="99.8284"  stroke="#00ebff" />
+<line x1="228.571" y1="99.8284" x2="238.73" y2="99.8284"  stroke="#00ebff" />
+<line x1="238.73" y1="99.8284" x2="248.889" y2="99.8284"  stroke="#00ebff" />
+<line x1="248.889" y1="99.8284" x2="259.048" y2="99.8284"  stroke="#00ebff" />
+<line x1="259.048" y1="99.8284" x2="269.206" y2="99.8284"  stroke="#00ebff" />
+<line x1="269.206" y1="99.8284" x2="279.365" y2="99.8284"  stroke="#00ebff" />
+<line x1="279.365" y1="99.8284" x2="289.524" y2="99.8284"  stroke="#00ebff" />
+<line x1="289.524" y1="99.8284" x2="299.683" y2="99.8284"  stroke="#00ebff" />
+<line x1="299.683" y1="99.8284" x2="309.841" y2="99.8284"  stroke="#00ebff" />
+<line x1="309.841" y1="99.8284" x2="320" y2="99.8284"  stroke="#00ebff" />
+<line x1="320" y1="99.8284" x2="330.159" y2="99.8284"  stroke="#00ebff" />
+<line x1="330.159" y1="99.8284" x2="340.317" y2="99.8284"  stroke="#00ebff" />
+<line x1="340.317" y1="99.8284" x2="350.476" y2="99.8284"  stroke="#00ebff" />
+<line x1="350.476" y1="99.8284" x2="360.635" y2="99.8284"  stroke="#00ebff" />
+<line x1="360.635" y1="99.8284" x2="370.794" y2="99.8284"  stroke="#00ebff" />
+<line x1="370.794" y1="99.8284" x2="380.952" y2="99.8284"  stroke="#00ebff" />
+<line x1="380.952" y1="99.8284" x2="391.111" y2="99.8284"  stroke="#00ebff" />
+<line x1="391.111" y1="99.8284" x2="401.27" y2="99.8284"  stroke="#00ebff" />
+<line x1="401.27" y1="99.8284" x2="411.429" y2="99.8284"  stroke="#00ebff" />
+<line x1="411.429" y1="99.8284" x2="421.587" y2="99.8284"  stroke="#00ebff" />
+<line x1="421.587" y1="99.8284" x2="431.746" y2="99.8284"  stroke="#00ebff" />
+<line x1="431.746" y1="99.8284" x2="441.905" y2="49.5238"  stroke="#00ebff" />
+<line x1="441.905" y1="49.5238" x2="452.063" y2="49.5238"  stroke="#00ebff" />
+<line x1="452.063" y1="49.5238" x2="462.222" y2="49.5238"  stroke="#00ebff" />
+<line x1="462.222" y1="49.5238" x2="472.381" y2="49.5238"  stroke="#00ebff" />
+<line x1="472.381" y1="49.5238" x2="482.54" y2="49.5238"  stroke="#00ebff" />
+<line x1="482.54" y1="49.5238" x2="492.698" y2="49.5238"  stroke="#00ebff" />
+<line x1="492.698" y1="49.5238" x2="502.857" y2="49.5238"  stroke="#00ebff" />
+<line x1="502.857" y1="49.5238" x2="513.016" y2="49.5238"  stroke="#00ebff" />
+<line x1="513.016" y1="49.5238" x2="523.175" y2="49.5238"  stroke="#00ebff" />
+<line x1="523.175" y1="49.5238" x2="533.333" y2="49.5238"  stroke="#00ebff" />
+<line x1="533.333" y1="49.5238" x2="543.492" y2="49.5238"  stroke="#00ebff" />
+<line x1="543.492" y1="49.5238" x2="553.651" y2="49.5238"  stroke="#00ebff" />
+<line x1="553.651" y1="49.5238" x2="563.81" y2="49.5238"  stroke="#00ebff" />
+<line x1="563.81" y1="49.5238" x2="573.968" y2="49.5238"  stroke="#00ebff" />
+<line x1="66.0317" y1="430.476" x2="76.1905" y2="288.471"  stroke="#ffe100" />
+<line x1="76.1905" y1="288.471" x2="86.3492" y2="257.03"  stroke="#ffe100" />
+<line x1="86.3492" y1="257.03" x2="96.5079" y2="257.03"  stroke="#ffe100" />
+<line x1="96.5079" y1="257.03" x2="106.667" y2="222.446"  stroke="#ffe100" />
+<line x1="106.667" y1="222.446" x2="116.825" y2="222.446"  stroke="#ffe100" />
+<line x1="116.825" y1="222.446" x2="126.984" y2="222.446"  stroke="#ffe100" />
+<line x1="126.984" y1="222.446" x2="137.143" y2="222.446"  stroke="#ffe100" />
+<line x1="137.143" y1="222.446" x2="147.302" y2="184.717"  stroke="#ffe100" />
+<line x1="147.302" y1="184.717" x2="157.46" y2="184.717"  stroke="#ffe100" />
+<line x1="157.46" y1="184.717" x2="167.619" y2="184.717"  stroke="#ffe100" />
+<line x1="167.619" y1="184.717" x2="177.778" y2="184.717"  stroke="#ffe100" />
+<line x1="177.778" y1="184.717" x2="187.937" y2="184.717"  stroke="#ffe100" />
+<line x1="187.937" y1="184.717" x2="198.095" y2="184.717"  stroke="#ffe100" />
+<line x1="198.095" y1="184.717" x2="208.254" y2="184.717"  stroke="#ffe100" />
+<line x1="208.254" y1="184.717" x2="218.413" y2="143.845"  stroke="#ffe100" />
+<line x1="218.413" y1="143.845" x2="228.571" y2="143.845"  stroke="#ffe100" />
+<line x1="228.571" y1="143.845" x2="238.73" y2="143.845"  stroke="#ffe100" />
+<line x1="238.73" y1="143.845" x2="248.889" y2="143.845"  stroke="#ffe100" />
+<line x1="248.889" y1="143.845" x2="259.048" y2="143.845"  stroke="#ffe100" />
+<line x1="259.048" y1="143.845" x2="269.206" y2="143.845"  stroke="#ffe100" />
+<line x1="269.206" y1="143.845" x2="279.365" y2="143.845"  stroke="#ffe100" />
+<line x1="279.365" y1="143.845" x2="289.524" y2="143.845"  stroke="#ffe100" />
+<line x1="289.524" y1="143.845" x2="299.683" y2="143.845"  stroke="#ffe100" />
+<line x1="299.683" y1="143.845" x2="309.841" y2="143.845"  stroke="#ffe100" />
+<line x1="309.841" y1="143.845" x2="320" y2="143.845"  stroke="#ffe100" />
+<line x1="320" y1="143.845" x2="330.159" y2="143.845"  stroke="#ffe100" />
+<line x1="330.159" y1="143.845" x2="340.317" y2="143.845"  stroke="#ffe100" />
+<line x1="340.317" y1="143.845" x2="350.476" y2="99.8284"  stroke="#ffe100" />
+<line x1="350.476" y1="99.8284" x2="360.635" y2="99.8284"  stroke="#ffe100" />
+<line x1="360.635" y1="99.8284" x2="370.794" y2="99.8284"  stroke="#ffe100" />
+<line x1="370.794" y1="99.8284" x2="380.952" y2="99.8284"  stroke="#ffe100" />
+<line x1="380.952" y1="99.8284" x2="391.111" y2="99.8284"  stroke="#ffe100" />
+<line x1="391.111" y1="99.8284" x2="401.27" y2="99.8284"  stroke="#ffe100" />
+<line x1="401.27" y1="99.8284" x2="411.429" y2="99.8284"  stroke="#ffe100" />
+<line x1="411.429" y1="99.8284" x2="421.587" y2="99.8284"  stroke="#ffe100" />
+<line x1="421.587" y1="99.8284" x2="431.746" y2="99.8284"  stroke="#ffe100" />
+<line x1="431.746" y1="99.8284" x2="441.905" y2="99.8284"  stroke="#ffe100" />
+<line x1="441.905" y1="99.8284" x2="452.063" y2="99.8284"  stroke="#ffe100" />
+<line x1="452.063" y1="99.8284" x2="462.222" y2="99.8284"  stroke="#ffe100" />
+<line x1="462.222" y1="99.8284" x2="472.381" y2="99.8284"  stroke="#ffe100" />
+<line x1="472.381" y1="99.8284" x2="482.54" y2="99.8284"  stroke="#ffe100" />
+<line x1="482.54" y1="99.8284" x2="492.698" y2="99.8284"  stroke="#ffe100" />
+<line x1="492.698" y1="99.8284" x2="502.857" y2="99.8284"  stroke="#ffe100" />
+<line x1="502.857" y1="99.8284" x2="513.016" y2="99.8284"  stroke="#ffe100" />
+<line x1="513.016" y1="99.8284" x2="523.175" y2="99.8284"  stroke="#ffe100" />
+<line x1="523.175" y1="99.8284" x2="533.333" y2="99.8284"  stroke="#ffe100" />
+<line x1="533.333" y1="99.8284" x2="543.492" y2="99.8284"  stroke="#ffe100" />
+<line x1="543.492" y1="99.8284" x2="553.651" y2="99.8284"  stroke="#ffe100" />
+<line x1="553.651" y1="99.8284" x2="563.81" y2="50.0478"  stroke="#ffe100" />
+<line x1="563.81" y1="50.0478" x2="573.968" y2="49.5238"  stroke="#ffe100" />
+<line x1="66.0317" y1="430.476" x2="76.1905" y2="429.952"  stroke="#ff0000" />
+<line x1="76.1905" y1="429.952" x2="86.3492" y2="429.952"  stroke="#ff0000" />
+<line x1="86.3492" y1="429.952" x2="96.5079" y2="426.808"  stroke="#ff0000" />
+<line x1="96.5079" y1="426.808" x2="106.667" y2="426.808"  stroke="#ff0000" />
+<line x1="106.667" y1="426.808" x2="116.825" y2="420.52"  stroke="#ff0000" />
+<line x1="116.825" y1="420.52" x2="126.984" y2="376.504"  stroke="#ff0000" />
+<line x1="126.984" y1="376.504" x2="137.143" y2="376.504"  stroke="#ff0000" />
+<line x1="137.143" y1="376.504" x2="147.302" y2="367.071"  stroke="#ff0000" />
+<line x1="147.302" y1="367.071" x2="157.46" y2="367.071"  stroke="#ff0000" />
+<line x1="157.46" y1="367.071" x2="167.619" y2="354.495"  stroke="#ff0000" />
+<line x1="167.619" y1="354.495" x2="177.778" y2="354.495"  stroke="#ff0000" />
+<line x1="177.778" y1="354.495" x2="187.937" y2="338.775"  stroke="#ff0000" />
+<line x1="187.937" y1="338.775" x2="198.095" y2="338.775"  stroke="#ff0000" />
+<line x1="198.095" y1="338.775" x2="208.254" y2="288.471"  stroke="#ff0000" />
+<line x1="208.254" y1="288.471" x2="218.413" y2="228.734"  stroke="#ff0000" />
+<line x1="218.413" y1="228.734" x2="228.571" y2="228.734"  stroke="#ff0000" />
+<line x1="228.571" y1="228.734" x2="238.73" y2="206.726"  stroke="#ff0000" />
+<line x1="238.73" y1="206.726" x2="248.889" y2="206.726"  stroke="#ff0000" />
+<line x1="248.889" y1="206.726" x2="259.048" y2="181.573"  stroke="#ff0000" />
+<line x1="259.048" y1="181.573" x2="269.206" y2="115.549"  stroke="#ff0000" />
+<line x1="269.206" y1="115.549" x2="279.365" y2="49.5238"  stroke="#ff0000" />
+<line x1="279.365" y1="49.5238" x2="289.524" y2="49.5238"  stroke="#ff0000" />
+<line x1="289.524" y1="49.5238" x2="299.683" y2="49.5238"  stroke="#ff0000" />
+<line x1="299.683" y1="49.5238" x2="309.841" y2="49.5238"  stroke="#ff0000" />
+<line x1="309.841" y1="49.5238" x2="320" y2="49.5238"  stroke="#ff0000" />
+<line x1="320" y1="49.5238" x2="330.159" y2="49.5238"  stroke="#ff0000" />
+<line x1="330.159" y1="49.5238" x2="340.317" y2="49.5238"  stroke="#ff0000" />
+<line x1="340.317" y1="49.5238" x2="350.476" y2="49.5238"  stroke="#ff0000" />
+<line x1="350.476" y1="49.5238" x2="360.635" y2="49.5238"  stroke="#ff0000" />
+<line x1="360.635" y1="49.5238" x2="370.794" y2="49.5238"  stroke="#ff0000" />
+<line x1="370.794" y1="49.5238" x2="380.952" y2="49.5238"  stroke="#ff0000" />
+<line x1="380.952" y1="49.5238" x2="391.111" y2="49.5238"  stroke="#ff0000" />
+<line x1="391.111" y1="49.5238" x2="401.27" y2="49.5238"  stroke="#ff0000" />
+<line x1="401.27" y1="49.5238" x2="411.429" y2="49.5238"  stroke="#ff0000" />
+<line x1="411.429" y1="49.5238" x2="421.587" y2="49.5238"  stroke="#ff0000" />
+<line x1="421.587" y1="49.5238" x2="431.746" y2="49.5238"  stroke="#ff0000" />
+<line x1="431.746" y1="49.5238" x2="441.905" y2="49.5238"  stroke="#ff0000" />
+<line x1="441.905" y1="49.5238" x2="452.063" y2="49.5238"  stroke="#ff0000" />
+<line x1="452.063" y1="49.5238" x2="462.222" y2="49.5238"  stroke="#ff0000" />
+<line x1="462.222" y1="49.5238" x2="472.381" y2="49.5238"  stroke="#ff0000" />
+<line x1="472.381" y1="49.5238" x2="482.54" y2="49.5238"  stroke="#ff0000" />
+<line x1="482.54" y1="49.5238" x2="492.698" y2="49.5238"  stroke="#ff0000" />
+<line x1="492.698" y1="49.5238" x2="502.857" y2="49.5238"  stroke="#ff0000" />
+<line x1="502.857" y1="49.5238" x2="513.016" y2="49.5238"  stroke="#ff0000" />
+<line x1="513.016" y1="49.5238" x2="523.175" y2="49.5238"  stroke="#ff0000" />
+<line x1="523.175" y1="49.5238" x2="533.333" y2="49.5238"  stroke="#ff0000" />
+<line x1="533.333" y1="49.5238" x2="543.492" y2="49.5238"  stroke="#ff0000" />
+<line x1="543.492" y1="49.5238" x2="553.651" y2="49.5238"  stroke="#ff0000" />
+<line x1="553.651" y1="49.5238" x2="563.81" y2="49.5238"  stroke="#ff0000" />
+<line x1="563.81" y1="49.5238" x2="573.968" y2="49.5238"  stroke="#ff0000" />
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="640px" height="480px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0" y="0" width="640" height="480"  fill="#ffffff" />
+<defs>
+<g id="dot">
+<line x1="1" y1="1" x2="0" y2="0"  />
+</g>
+<g id="cross">
+<line x1="-3" y1="0" x2="3" y2="0"  />
+<line x1="0" y1="-3" x2="0" y2="3"  />
+</g>
+<g id="square">
+<line x1="-3" y1="-3" x2="-3" y2="3"  />
+<line x1="-3" y1="3" x2="3" y2="3"  />
+<line x1="3" y1="3" x2="3" y2="-3"  />
+<line x1="3" y1="-3" x2="-3" y2="-3"  />
+</g>
+<g id="round">
+<ellipse cx="0" cy="0" rx="3" ry="3"  fill="none" /></g>
+<g id="triangle">
+<line x1="0" y1="-3" x2="-3" y2="3"  />
+<line x1="-3" y1="3" x2="3" y2="3"  />
+<line x1="0" y1="-3" x2="3" y2="3"  />
+</g>
+</defs>
+<polygon fill="none" stroke="#000000" points="66.0317,430.476 66.0317,49.5238 573.968,49.5238 573.968,430.476 " />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="320" y="473.619" fill="#000000">Entrance ray height (normalized)</text>
+<line x1="66.0317" y1="240" x2="573.968" y2="240"  stroke="#000000" />
+<use x="66.0317" y="240" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="66.0317" y="448.476" fill="#000000">-1</text>
+<use x="320" y="240" xlink:href="#cross"  stroke="#000000" />
+<use x="320" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="320" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="320" y="448.476" fill="#000000">0</text>
+<use x="573.968" y="240" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="49.5238" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="430.476" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="573.968" y="448.476" fill="#000000">1</text>
+<text style="font-size:12;text-align:center;text-anchor:middle;" x="16.5079" y="246" transform="rotate(-90,16.5079,240)" fill="#000000">Transverse ray aberration (um)</text>
+<line x1="320" y1="430.476" x2="320" y2="49.5238"  stroke="#000000" />
+<use x="320" y="408.237" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="408.237" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="408.237" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="414.237" fill="#000000">-30</text>
+<use x="320" y="352.158" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="352.158" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="352.158" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="358.158" fill="#000000">-20</text>
+<use x="320" y="296.079" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="296.079" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="296.079" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="302.079" fill="#000000">-10</text>
+<use x="320" y="240" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="240" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="240" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="246" fill="#000000">0</text>
+<use x="320" y="183.921" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="183.921" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="183.921" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="189.921" fill="#000000">10</text>
+<use x="320" y="127.842" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="127.842" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="127.842" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="133.842" fill="#000000">20</text>
+<use x="320" y="71.7627" xlink:href="#cross"  stroke="#000000" />
+<use x="573.968" y="71.7627" xlink:href="#cross"  stroke="#000000" />
+<use x="66.0317" y="71.7627" xlink:href="#cross"  stroke="#000000" />
+<text style="font-size:12;text-align:right;text-anchor:end;" x="60.0317" y="77.7627" fill="#000000">30</text>
+<text style="font-size:18;text-align:center;text-anchor:middle;" x="320" y="33.7619" fill="#000000">Transverse ray aberration fan (tangential)</text>
+<path fill="none"  stroke="#00ebff" d="M235.429,49.5238 S246.705,103.113 252.343,121.835 S263.619,148.742 269.257,161.856 S280.533,190.91 286.171,200.516 S297.448,212.91 303.086,219.491 S314.362,233.164 320,240 S331.276,253.928 336.914,260.509 S348.19,269.879 353.829,279.484 S365.105,305.031 370.743,318.144 S382.019,339.443 387.657,358.165 S401.752,418.424 404.571,430.476 " />
+<path fill="none"  stroke="#ffe100" d="M235.429,115.53 S246.705,152.934 252.343,168.047 S263.619,194.73 269.257,206.211 S280.533,231.302 286.171,236.929 S297.448,239.46 303.086,239.972 S314.362,239.991 320,240 S331.276,239.516 336.914,240.028 S348.19,237.444 353.829,243.071 S365.105,262.309 370.743,273.789 S382.019,296.84 387.657,311.953 S401.752,355.717 404.571,364.47 " />
+<path fill="none"  stroke="#ff0000" d="M235.429,240.284 S246.705,244.515 252.343,248.446 S263.619,259.339 269.257,263.873 S280.533,276.364 286.171,275.652 S297.448,265.545 303.086,259.603 S314.362,246.534 320,240 S331.276,226.339 336.914,220.397 S348.19,205.06 353.829,204.348 S365.105,211.592 370.743,216.127 S382.019,227.622 387.657,231.554 S401.752,238.355 404.571,239.716 " />
+</svg>
